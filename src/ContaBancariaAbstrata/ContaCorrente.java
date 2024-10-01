@@ -1,6 +1,6 @@
 package ContaBancariaAbstrata;
 
-// Subclasse ContaCorrente
+
 public class ContaCorrente extends ContaBancaria {
     private double taxaManutencao;
 
