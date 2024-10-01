@@ -30,4 +30,4 @@ Este repositório contém exercicios de Programação orientada a objetos para a
 
 ## Conclusão
 
-As escolhas de modelagem realizadas visam criar um sistema robusto, flexível e de fácil manutenção. A utilização de herança, composição, interfaces e generics são práticas recomendadas que promovem a reutilização de código, segurança de tipos e clareza no design. Esse projeto é um excelente exemplo de como aplicar princípios de programação orientada a objetos em situações do mundo real.
+As escolhas de modelagem realizadas visam criar um sistema robusto, flexível e de fácil manutenção. A utilização de herança, composição, interfaces e generics são práticas recomendadas que promovem a reutilização de código, segurança de tipos e clareza no design.
