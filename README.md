@@ -16,7 +16,7 @@ Este repositório contém exercicios de Programação orientada a objetos para a
 
 2. **Sistema de Transporte**:
    - **Interface**: `Transporte`.
-   - **Classes**: `Carro`, `Bicicleta`, `Trem`.
+   - **Classes**: `Carro`, `Bicicleta`.
    - **Justificativa**:
      - **Interfaces**: A interface `Transporte` permite que diferentes tipos de veículos implementem o método `mover()`, garantindo que cada veículo tenha sua própria implementação. Isso promove um design flexível e facilita a adição de novos tipos de transporte no futuro.
      - **Polimorfismo**: Através do uso de interfaces, é possível criar um sistema onde diferentes objetos de transporte podem ser tratados de forma uniforme, permitindo a extensibilidade e a manutenibilidade do código.
